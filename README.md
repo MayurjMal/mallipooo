@@ -1,2 +1,7 @@
 # mallipooo
-codes
+<html>
+<head>
+</head>
+<body>
+echo "my first priject";
+</body>
