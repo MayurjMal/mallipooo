@@ -34,6 +34,7 @@
         
         <!-- Start : Captcha Files -->
         <link href="captcha/css/style.css" rel="stylesheet">
+	    
 		<!-- End : Captcha Files -->
         
         <!--[if lt IE 9]>
